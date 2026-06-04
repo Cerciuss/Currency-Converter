@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CurrencyConvertor/CurrencyConvertor.vcxproj" Id="b4663933-2bd0-403e-8e98-281455ae3c1c" />
+</Solution>
